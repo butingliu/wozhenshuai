@@ -1,4 +1,8 @@
 今天太阳真好
 jagofajgjkgajp
 阿达是的发放
+<<<<<<< HEAD
 bbbbbbb
+=======
+aaaaa
+>>>>>>> a2afe3947515247263e68e6584b248fa31b86d71
